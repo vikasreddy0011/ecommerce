@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+@import "rsuite/dist/rsuite.css";
+
+#root{ padding: 10px; }

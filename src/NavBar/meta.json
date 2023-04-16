@@ -1,0 +1,9 @@
+
+{
+    "categories":{
+        "electronics": "Electronics",
+        "jewelery": "Jewelery",
+        "mensclothing":"Men's clothing",
+        "womensclothing": "Women's clothing"
+    }
+}
